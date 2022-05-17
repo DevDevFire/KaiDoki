@@ -39,7 +39,5 @@ pip install -r  requirements.txt
 
 - price_manage.xlsxは情報が正しく入力されていることを前提としています。<br>※正しく入力されていない場合の処理は実装しておりません。
 
-- 現在はPhase1としてのソースコード公開となります。
-
 ## 文責
 * Twitter：[@yotsuguni](https://twitter.com/yotsuguni)（ご質問等、メッセージはDMで受け付けております。）
