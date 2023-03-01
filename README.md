@@ -38,6 +38,3 @@ pip install -r  requirements.txt
 - KaiDoki(本リポジトリ内のソースコード)の実行前に、対象の商品を掲載しているWebサイトのWebスクレイピングが禁止されていないことを必ず確認下さい。
 
 - price_manage.xlsxは情報が正しく入力されていることを前提としています。<br>※正しく入力されていない場合の処理は実装しておりません。
-
-## 文責
-* Twitter：[@yotsuguni](https://twitter.com/shimurasoichi)（ご質問等、メッセージはDMで受け付けております。）
